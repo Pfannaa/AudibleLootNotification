@@ -18,7 +18,7 @@ public class SoundManager
     private AudibleLootNotificationConfig config;
 
     public enum Sound {
-        SADNESS("/sadness.wav"),
+        Sadness("/sadness.wav"),
         AcbSpec("/AcbSpec.wav"),
         CashRegister("/CashRegister.wav"),
         CatMeow("/CatMeow.wav"),
