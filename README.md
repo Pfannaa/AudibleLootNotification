@@ -26,3 +26,5 @@ MinecraftVillager - https://freesound.org/people/1piemanpie/sounds/383221/ by 1p
 SoMuchMoneyAutotune - https://freesound.org/people/elaineaeris/sounds/529944/ by elaineaeris
 
 MonkeyNoise - https://freesound.org/people/wilika2/sounds/588623/ by wilika2
+
+AcbSpec - https://tuna.voicemod.net/sound/e9c9b8ee-816f-4ebd-90c5-91b1cca6d401 by Apaydin
