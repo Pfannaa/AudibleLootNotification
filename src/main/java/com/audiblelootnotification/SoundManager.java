@@ -18,13 +18,10 @@ public class SoundManager
     private AudibleLootNotificationConfig config;
 
     public enum Sound {
-        Sadness("/sadness.wav"),
         AcbSpec("/AcbSpec.wav"),
         CashRegister("/CashRegister.wav"),
         CatMeow("/CatMeow.wav"),
         Dolphin("/Dolphin.wav"),
-        EnemyAc130Above("/EnemyAc130Above.wav"),
-        GirlySigh("/GirlySigh.wav"),
         GuySayingMoney("/GuySayingMoney.wav"),
         HeyYouJustGotMoney("/HeyYouJustGotMoney.wav"),
         MinecraftVillager("/MinecraftVillager.wav"),

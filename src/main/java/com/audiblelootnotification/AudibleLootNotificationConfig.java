@@ -37,7 +37,7 @@ public interface AudibleLootNotificationConfig extends Config
 	)
 	default SoundManager.Sound getSelectedSound()
 	{
-		return SoundManager.Sound.GuySayingMoney;
+		return SoundManager.Sound.MonkeyNoise;
 	}
 
 }
