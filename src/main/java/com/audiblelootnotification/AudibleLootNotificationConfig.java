@@ -11,7 +11,7 @@ import java.util.List;
 public interface AudibleLootNotificationConfig extends Config
 {
 	@ConfigItem(
-			keyName = "value",
+			keyName = "minValue",
 			name = "Minimum value",
 			description = "Minimum value at which to play the sound"
 	)
