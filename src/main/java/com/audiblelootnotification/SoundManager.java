@@ -27,7 +27,8 @@ public class SoundManager
         MinecraftVillager("/MinecraftVillager.wav"),
         MonkeyNoise("/MonkeyNoise.wav"),
         PigGrunt("/PigGrunt.wav"),
-        SoMuchMoneyAutotune("/SoMuchMoneyAutotune.wav");
+        SoMuchMoneyAutotune("/SoMuchMoneyAutotune.wav"),
+        UniqueItemJingle("/Dt2Jingle.wav");
 
         private final String fileName;
         Sound(String filename) {
