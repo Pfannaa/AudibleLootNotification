@@ -28,3 +28,5 @@ SoMuchMoneyAutotune - https://freesound.org/people/elaineaeris/sounds/529944/ by
 MonkeyNoise - https://freesound.org/people/wilika2/sounds/588623/ by wilika2
 
 AcbSpec - https://tuna.voicemod.net/sound/e9c9b8ee-816f-4ebd-90c5-91b1cca6d401 by Apaydin
+
+Created using intellectual property belonging to Jagex Limited under the terms of Jagex's Fan Content Policy. This content is not endorsed by or affiliated with Jagex.
