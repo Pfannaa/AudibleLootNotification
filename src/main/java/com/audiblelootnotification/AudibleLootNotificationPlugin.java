@@ -59,7 +59,7 @@ public class AudibleLootNotificationPlugin extends Plugin
 
 	private void handleReceivedLoot(Collection<ItemStack> items, String name) {
 		for (ItemStack stack : items) {
-			int value = itemManager.getItemPrice(stack.getId()) * stack.getQuantity();
+			long value = itemManager.getItemPrice(stack.getId()) * stack.getQuantity();
 
 			if (value >= config.minValue())
 			{
